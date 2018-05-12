@@ -1,0 +1,27 @@
+_repo: Colleges-in-America_25400
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Barker, John Marshall
+    alias: Barker, J. M. (John Marshall)
+    birthdate: 1849
+    deathdate: 1928
+    gutenberg_agent_id: '31307'
+    url: http://www.gutenberg.org/2009/agents/31307
+description: ''
+gutenberg_issued: '2008-05-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25400'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Universities and colleges -- United States'
+- !lcc 'LA'
+title: Colleges in America
+url: http://www.gutenberg.org/ebooks/25400
